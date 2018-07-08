@@ -1,0 +1,32 @@
+.big-image{
+	background-image: url('../images/a.jpeg');
+	min-height: 100%;
+	background-position: center;
+	background-size: cover;
+	position: relative;
+	box-sizing: inherit;
+}
+body{
+	height: 100%;
+	margin: 0
+	box-sizing:inherit;
+	line-height: 1.5;
+	font-size: 15px;
+	font-family: "Raleway", sans-serif;
+}
+html body {
+	font-family: verdana, sans-serif;
+	font-size: 15px;
+	line-height: 1.5;
+}
+.w3-display {
+	padding: 12px 24px;
+	font-size: 24px;
+	position: absolute;
+	left: 0;
+	top: 0;
+	box-sizing: inherit;
+}
+.w3-display{
+	background: blue;
+}
